@@ -21,4 +21,4 @@ Acercamiento a herramientas de analitica de negocios como PowerBI, SQL, Phyton y
 
 *Mi Animal Espritual*
 
-![Perrito con sombrero](https://www.google.com.co/url?sa=i&url=https%3A%2F%2Fco.pinterest.com%2Fpin%2F281897257918923536%2F&psig=AOvVaw3Y5PRiIps5nIaTKV1363vg&ust=1724933891615000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiB3dDVl4gDFQAAAAAdAAAAABAE)(https://i.pinimg.com/736x/fb/c2/d2/fbc2d27ab19dc23dfc2d1a11ffacfb63.jpg))
+![Perrito con sombrero](https://i.pinimg.com/736x/fb/c2/d2/fbc2d27ab19dc23dfc2d1a11ffacfb63.jpg)
