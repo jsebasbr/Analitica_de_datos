@@ -15,5 +15,8 @@ Acercamiento a herramientas de analitica de negocios como PowerBI, SQL, Phyton y
 * Tengo 19 años
 * Mi primer nombre es uno de los más comunes en Colombia
 
+###*Mi universidad*
 [Universidad Externado](https://www.uexternado.edu.co)
-![Colombia](https://govco-prod-webutils.s3.amazonaws.com/uploads/2022-12-13/d50f15a1-7851-407a-98c4-5bb14ee301ae-1imagen_noticia.svg)
+
+###*Mi Animal Espritual*
+![Perrito con sombrero](https://www.google.com.co/url?sa=i&url=https%3A%2F%2Fco.pinterest.com%2Fpin%2F281897257918923536%2F&psig=AOvVaw3Y5PRiIps5nIaTKV1363vg&ust=1724933891615000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiB3dDVl4gDFQAAAAAdAAAAABAE)
